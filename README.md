@@ -39,10 +39,10 @@ Programa de Cadastro de Produtos
 ### [EX201T01](EX201T01.COB)
 Exercício valendo nota contendo programa de cadastro de alunos.
 - Fazer um sistema de cadastro de alunos contendo os campos abaixo:
-- Nome >   EX201T01         
+
+	  NOME >   EX201T01
          ARQUIVO   :   CADALUNO
          REGISTRO  :   REGALUNO
-
          CAMPOS :
          RA / RM           9(6)
          NOME             X(30)
@@ -70,7 +70,8 @@ Exercício valendo nota contendo programa de cadastro de alunos.
 ### [PROGR02T](PROGR02T.COB)
 Exercício valendo nota contendo programa de cadastro de Funcionários. Aprendemos a usar a SCREEN SECTION
 - Fazer um sistema de cadastro de funcionários contendo os campos e tabelas abaixo:
--  Nome >   PROGR02T         
+	
+	  NOME >   PROGR02T         
          ARQUIVO   :  CADFUN
          REGISTRO  :  REGFUN 
 
@@ -117,7 +118,8 @@ Exercício valendo nota contendo programa de cadastro de Funcionários. Aprendem
 Exercício valendo nota contendo programa de cadastro de Amigos e de Endereço. Aprendemos como utilizar o `OPEN INPUT` para buscar registros de outros arquivos como somente leitura utilizando uma chave primária.
 
 - Fazer um [sistema de cadastro de endereços](Programa_Cadastro_Amigo/PCADEND.COB) contendo os campos e tabelas abaixo:
-- -  Nome >   PCADEND         
+
+	  NOME >   PCADEND         
          ARQUIVO   :  ARQENDER
          REGISTRO  :  REGENDER 
 
@@ -138,7 +140,8 @@ Exercício valendo nota contendo programa de cadastro de Amigos e de Endereço. 
         MT- "MATO GROSSO"  
         
 - Fazer um [sistema de cadastro de amigos](Programa_Cadastro_Amigo/PCADAMG.COB) conectando com o cadastro de endereços e usando os campos e tabelas abaixo:
--  Nome >   PCADAMIG         
+
+	  NOME >   PCADAMIG         
          ARQUIVO   :  ARQAMIGO
          REGISTRO  :  REGAMIGO 
 
@@ -194,7 +197,8 @@ Exercício valendo nota contendo programa de cadastro de Amigos e de Endereço. 
 ### [Programa_Notas](https://github.com/juliobarcellos/Programacao_Mainframe/tree/main/Programa_Notas)
 Aprendemos a utilizar aqui campos calculados 
 - Fazer um [Sistema de Notas](Programa_Notas/PNOTA.COB) usando os campos e tabelas abaixo:
-         NOME >   PNOTA         
+         
+	  NOME >   PNOTA         
          ARQUIVO   :  CADNOTA
          REGISTRO  :  REGNOTA 
 
@@ -207,7 +211,8 @@ Aprendemos a utilizar aqui campos calculados
         Obs: Incluir os campos com a média das duas notas.
  
  - Fazer um [Segundo sistema de Notas](Programa_Notas/PNOTA1.COB) incluíndo campos para calcular as faltas dos dois bimestres:
-         NOME >   PNOTA1       
+         
+	   NOME >   PNOTA1       
          ARQUIVO   :  CADNOTA1
          REGISTRO  :  REGNOTA 
 
